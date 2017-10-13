@@ -1,0 +1,18 @@
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\bin\Debug\Noise.exe.config
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\bin\Debug\Noise.exe
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\bin\Debug\Noise.pdb
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.csprojResolveAssemblyReference.cache
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.Form1.resources
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.Properties.Resources.resources
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.csproj.GenerateResource.Cache
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.exe
+c:\users\atai\documents\visual studio 2015\Projects\Noise\Noise\obj\Debug\Noise.pdb
+D:\VS2015_project\Noise\Noise\bin\Debug\Noise.exe.config
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.exe
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.pdb
+D:\VS2015_project\Noise\Noise\bin\Debug\Noise.exe
+D:\VS2015_project\Noise\Noise\bin\Debug\Noise.pdb
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.csprojResolveAssemblyReference.cache
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.Form1.resources
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.Properties.Resources.resources
+D:\VS2015_project\Noise\Noise\obj\Debug\Noise.csproj.GenerateResource.Cache
